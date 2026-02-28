@@ -31,16 +31,7 @@ An AI-powered web application that predicts hypertension risk and provides perso
 - Pandas
 - XGBoost
 
-## Sharing
 
-To share this project:
-- Zip the entire `PulseGuard-AI-Website` folder
-- Upload to cloud storage (Google Drive, Dropbox, etc.)
-- Or host on GitHub Pages / Netlify for live demo
-
-## Note
-
-This is a prototype for demonstration purposes. Not intended for real medical advice.
 
 ---
 
